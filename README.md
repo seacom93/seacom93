@@ -20,3 +20,4 @@ chaos testing, and building the Go tooling that keeps it all observable.
 
 **Interests:** ClickHouse MergeTree internals, distributed consensus, CDC
 pipelines, Kubernetes, and making reliability proactive instead of reactive.
+
