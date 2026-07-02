@@ -15,7 +15,7 @@ chaos testing, and building the Go tooling that keeps it all observable.
   dependencies. I built it for encrypting event batches at the ingestion
   layer.
 - [LumberJack](https://github.com/seacom93/LumberJack) is a SQL Server
-  transaction log viewer in Go. Reading the WAL is the best way to understand
+  transaction log viewer in Go. Reading the tlog is the best way to understand
   a database.
 
 **Interests:** ClickHouse MergeTree internals, distributed consensus, CDC
